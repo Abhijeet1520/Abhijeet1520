@@ -143,10 +143,10 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight" />
 </a>
 </div>
