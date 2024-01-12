@@ -1,153 +1,115 @@
-
-### Hey there 👋 I am [Abhijeet](https://abhi1520.com)
+### Hi there, I'm [Abhijeet](https://abhi1520.com) 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Abhijeet1520.Abhijeet1520) [![Github](https://img.shields.io/github/followers/Abhijeet1520?label=Followers&logo=Github)](https://github.com/Abhijeet1520)
 
-## 🎓 I'm a freelancer at [Freelancer.com](https://freelancer.com/u/Abhijeet1520)
+As a passionate and innovative software developer, I thrive on new challenges and love to explore diverse technologies. Check out my work at [Freelancer.com](https://freelancer.com/u/Abhijeet1520).
 
-- 🔭 I’m currently developing a tutorial series to teach freelancing.
-- 🌱 I’m currently working with Django and Vue.
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything [here](https://github.com/Abhijeet1520/Abhijeet1520/discussions)
-- ⚡ Fun fact: I love reading webtoons.
+### ✉️ Connect with me:
 
-
-## ✉️ Find me on:
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Abhijeet1520/)
-[![Mail](https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:abhijeet@abhi1520.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?labelColor=ffffff&style=flat&logo=Telegram&logoColor=blue)](https://t.me/Abhijeet1520)
-
-<br />
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/Abhijeet1520/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a></td>
+    <td align="center"><a href="mailto:abhijeet@abhi1520.com"><img src="https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red" alt="Mail"></a></td>
+    <td align="center"><a href="https://t.me/Abhijeet1520"><img src="https://img.shields.io/badge/-Telegram-blue?labelColor=ffffff&style=flat&logo=Telegram&logoColor=blue" alt="Telegram"></a></td>
+  </tr>
+</table>
 
 ## 🧰 Languages and Tools:
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" alt="Numpy" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript" height="40px" style="vertical-align:top; margin:4px">
-<img  src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="Javascript" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="React" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySql" height="40px" style="vertical-align:top; margin:4px">
-<br/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40px" style="vertical-align:top; margin:4px">
-<img  src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="Firebase" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS Tools" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" alt="Unity3D" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github" height="40px" style="vertical-align:top; margin:4px">
-<br/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter-Notebook" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" alt="Android" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" height="40px" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows" height="40px" style="vertical-align:top; margin:4px">
+### Programming Languages
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40px"></td>
+  </tr>
+</table>
+
+### Web Development 
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/material-design/material-design.png" alt="Material UI" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" height="40px"></td>
+    <td
+
+><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" height="40px"></td>
+  </tr>
+</table>
+
+### Data Analysis
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" alt="Power Automate" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/elrumo/macOS_Big_Sur_icons_replacements/master/Other/icons/png/high-res/MySQL_Workbench.png" alt="SQL" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/elrumo/macOS_Big_Sur_icons_replacements/master/Other/icons/png/high-res/Microsoft_Excel.png" alt="Excel" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" alt="Numpy" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/elrumo/macOS_Big_Sur_icons_replacements/master/Other/icons/png/high-res/Microsoft_SharePoint_Alt.png" alt="SharePoint" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Apps-Colored.png" alt="PowerApps" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Dataverse-Colored.png" alt="Dataverse" height="40px"></td>
+  </tr>
+</table>
+
+### Automation Tools
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" alt="Selenium" height="40px"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/6906516" alt="Puppeteer" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" alt="Postman" height="40px"></td>
+  </tr>
+</table>
+
+### App Development
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="Flutter" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/elrumo/macOS_Big_Sur_icons_replacements/master/Other/icons/png/high-res/Unity_Hub.png" alt="Unity 3D" height="40px"></td>
+  </tr>
+</table>
+
+### Web Hosting
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" alt="AWS EC2" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/ElasticBeanstalk.png" alt="AWS Beanstalk" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" alt="GCP" height="40px"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" alt="Netlify" height="40px"></td>
+  </tr>
+</table>
+
+<details>
+<summary>More Skills</summary>
+<p>
+#### Web Scraping - Selenium, Beautiful Soup, Puppeteer
+#### GUI Development - PySimpleGUI, PyQt5, Electron
+#### AR/VR - Vuforia, 8th Wall
+#### Game Development - Unity3D, PyGame
+#### Graphic Designing - Inkscape, Photoshop CC
+#### 3D Modelling - Blender3D
 </p>
-<br/>
-
-<details open>
-<summary>Data Analysis</summary>
-
-- Python
-- Numpy
-- Scipy
-- Pandas
-- Matplotlib.pyplot
-- MySQL
-</details>
-
-<details>
-<summary>Web Scraping</summary>
-
-- Python
-- Selenium
-- Beautiful Soup
-- Mechanical Soup
-- Requests
-- urllib
-</details>
-
-<details>
-<summary>Graphical User Interface(GUI) development</summary>
-
-- PySimpleGUI
-- dearpygui
-- wxPython
-- PyQt5
-- Tkinter
-</details>
-
-<details>
-<summary>AR/VR</summary>
-
-- Vuforia
-- 8th Wall
-- Google Scene Viewer
-</details>
-
-<details>
-<summary>Microservices</summary>
-
-- AWS Lambda
-- AWS Boto3
-- AWS RDS
-- AWS S3
-- Docker
-- Firebase
-</details>
-
-<details>
-<summary>Web development</summary>
-
-- HTML
-- CSS
-- PHP
-- MySQL
-- Bootstrap
-- JavaScript
-- jQuery
-- React
-- Vue
-- Django
-</details>
-
-<details>
-<summary>Game development</summary>
-
-- Unity3D
-- Blender3D
-- Photoshop CC
-- Pygame
-- Inkscape
-</details>
-
-<details>
-<summary>Graphic Designing</summary>
-
-- Inkscape
-- Photoshop CC
-- Blender3D
-- GIMP
-</details>
-
-<details>
-<summary>3D Modelling</summary>
-
-- Blender3D
 </details>
 
 ## :trophy: My Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight" />
-</a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abhijeet1520&count_private=true&show_icons=true&theme=tokyonight" width="400px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet1520&hide=php&theme=tokyonight" width="400px" />
+      </a>
+    </td>
+  </tr>
+</table>
