@@ -1,5 +1,5 @@
 
-### Hey there 👋 I am [Abhijeet](https://abhi1520.dev)
+### Hey there 👋 I am [Abhijeet](https://abhi1520.com)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Abhijeet1520.Abhijeet1520) [![Github](https://img.shields.io/github/followers/Abhijeet1520?label=Followers&logo=Github)](https://github.com/Abhijeet1520)
 
 ## 🎓 I'm a freelancer at [Freelancer.com](https://freelancer.com/u/Abhijeet1520)
