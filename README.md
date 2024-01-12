@@ -14,7 +14,8 @@
 ## ✉️ Find me on:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Abhijeet1520/)
-[![Gmail](https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:abhijeet@abhi1520.com)
+[![Mail](https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:abhijeet@abhi1520.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?labelColor=ffffff&style=flat&logo=Telegram&logoColor=blue)](https://t.me/Abhijeet1520)
 
 <br />
 
